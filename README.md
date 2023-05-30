@@ -4,6 +4,6 @@ Atualmente trabalho como analista de infraestrutura no SAP Labs de São Leopoldo
 
  - :house_with_garden: Moro no centro de Porto Alegre
  - :books: Sou graduado em Redes de Computadores
- - :computer: Sou programador iniciante (tento pelo menos) e entusiasta de linux e python.
+ - :computer: Sou programador iniciante e entusiasta de linux, python e automação.
  
- Acho que é isso... Se quiser me chamar, fique à vontade e me procure no [Linkedin](https://www.linkedin.com/in/lbmello) ou no e-mail [lucasbmello96@gmail.com](mailto:lucasbmello96@gmail.com).
+ Acho que é isso... Se quiser me chamar, fique à vontade e me procure no [Linkedin](https://www.linkedin.com/in/lbmello) ou no e-mail [contato@lbmello.net.br](mailto:contato@lbmello.net.br).
